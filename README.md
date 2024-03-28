@@ -12,7 +12,7 @@ Authorization handlers:
 
 Market handlers
 ```
-188.120.249.9/api/v1/adverts GET
+188.120.249.9/api/v1/adverts?sorted_by=(data/price)&sort_direction=(desc/asc) GET
 188.120.249.9/api/v1/adverts/item?advert_id= GET
 188.120.249.9/api/v1/adverts/add POST
 ```
